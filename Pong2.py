@@ -9,20 +9,6 @@ from anotherFunctions import *
 
 """
     Pong 2.0, OOP.
-
-    TODO:
-    Search on the issues on Pong2.py and Buttons.py online.
-    EXTREME: Use accurate, without const numbers, רזולוציה מתכווננת
-    HARD: Check collide to top, bottom, middle of each part in each Player. Make middle even smaller 
-    
-    For custom made bg, write this lines in __init__ of the Game
-        self.bg_red = pygame.image.load(r"documents\talor1.jpeg")
-        self.bg_red = pygame.transform.scale(self.bg_red, (SCREEN_WIDTH // 2, SCREEN_HEIGHT))
-        self.bg_blue = pygame.image.load(r"documents\talor2.jpeg")
-        self.bg_blue = pygame.transform.scale(self.bg_blue, (SCREEN_WIDTH // 2, SCREEN_HEIGHT))
-    In the game loop write (Instead the fill):
-    self.screen.blit(bg_red, (0, 0))
-    self.screen.blit(bg_blue, (SCREEN_WIDTH // 2, 0))
 """
 
 
