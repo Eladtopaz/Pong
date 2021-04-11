@@ -1,3 +1,5 @@
+[![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)](http://www.python.org/download/)
+
 # Pong
 Pong game that is written in Python!
 
