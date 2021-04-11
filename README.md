@@ -1,5 +1,5 @@
 
-![version](https://img.shields.io/badge/version-2.0-blue) ![Python 3.9.4](https://img.shields.io/badge/Python-3.9.4-yellow.svg)
+![version](https://img.shields.io/badge/version-2.1-blue) ![Python 3.9.4](https://img.shields.io/badge/Python-3.9.4-yellow.svg)
 
 # Pong
 Pong game that is written in Python!
@@ -10,7 +10,8 @@ Just download all the files, keep the documents in a separate folder and run Pon
 
 Include sounds when the ball leaves one side of the field (the sounds recorded in Hebrew).
 
-FIXED: Using the OS module the script work using every IDE.
+Change log: 
+2.1 - Using the OS module the script work using every IDE.
 
 Special setting: 
 
