@@ -1,7 +1,5 @@
 
-![version](https://img.shields.io/badge/version-2.0-blue)
-
-![Python 3.9.4](https://img.shields.io/badge/Python-3.9.4-yellow.svg)
+![version](https://img.shields.io/badge/version-2.0-blue) ![Python 3.9.4](https://img.shields.io/badge/Python-3.9.4-yellow.svg)
 
 # Pong
 Pong game that is written in Python!
