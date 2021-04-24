@@ -4,7 +4,7 @@
 # Pong
 Pong game that is written in Python!
 
-Just download all the files, keep the documents in a separate folder and run Pong2 file, enjoy the game!
+Just download all the files, keep the documents in a separate folder and run Pong2.py file, enjoy the game!
 
 Include sounds when the ball leaves one side of the field (the sounds recorded in Hebrew).
 
