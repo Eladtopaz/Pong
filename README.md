@@ -9,7 +9,7 @@ Just download all the files, keep the documents in a separate folder and run Pon
 Include sounds when the ball leaves one side of the field (the sounds recorded in Hebrew).
 
 ### REQUIREMENTS: 
-pygame library.
+pygame package.
 
 
 ### Change log: 
